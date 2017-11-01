@@ -22274,12 +22274,12 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\pilgrimm\\source\\repos\\App1\\App1\\App1.UWP\\App1.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\hack1\\Xamarin\\App1\\App1.UWP\\App1.UWP.csproj",
       "projectName": "App1.UWP",
-      "projectPath": "C:\\Users\\pilgrimm\\source\\repos\\App1\\App1\\App1.UWP\\App1.UWP.csproj",
-      "projectJsonPath": "C:\\Users\\pilgrimm\\source\\repos\\App1\\App1\\App1.UWP\\project.json",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\hack1\\Xamarin\\App1\\App1.UWP\\App1.UWP.csproj",
+      "projectJsonPath": "C:\\Users\\Admin\\source\\repos\\hack1\\Xamarin\\App1\\App1.UWP\\project.json",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pilgrimm\\source\\repos\\App1\\App1\\App1.UWP\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\source\\repos\\hack1\\Xamarin\\App1\\App1.UWP\\obj\\",
       "projectStyle": "ProjectJson",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

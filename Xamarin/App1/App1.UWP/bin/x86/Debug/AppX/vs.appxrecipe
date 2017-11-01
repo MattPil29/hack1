@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>4f2c038e-c063-4d62-8c8a-b4810d011ebf</PackageIdentityName>
     <PackageIdentityPublisher>CN=pilgrimm</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\pilgrimm\source\repos\App1\App1\App1.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\pilgrimm\source\repos\App1\App1\App1.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.UWP\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>B8D7F8E94AC9AE4CA35128BE59A7D283346CEFF000FFAD6F7DCF4A27ADE8C377</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>4f2c038e-c063-4d62-8c8a-b4810d011ebf_1.0.0.0_x86__zqjbzkcbrk5zj</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>4f2c038e-c063-4d62-8c8a-b4810d011ebf_zqjbzkcbrk5zj!App</RegisteredUserModeAppID>
@@ -28,16 +28,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\pilgrimm\source\repos\App1\App1\App1.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-01T11:22:03.873</Modified>
+      <Modified>2017-11-01T18:06:02.681</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\pilgrimm\source\repos\App1\App1\App1.UWP\bin\x86\Debug\App1.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.UWP\bin\x86\Debug\App1.UWP.exe">
       <PackagePath>entrypoint\App1.UWP.exe</PackagePath>
-      <Modified>2017-11-01T11:22:02.448</Modified>
+      <Modified>2017-11-01T18:06:02.114</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\.nuget\packages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -511,49 +511,49 @@
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
       <Modified>2017-09-27T09:50:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pilgrimm\source\repos\App1\App1\App1.UWP\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.UWP\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2017-11-01T09:31:09.857</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pilgrimm\source\repos\App1\App1\App1.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-11-01T09:31:09.857</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pilgrimm\source\repos\App1\App1\App1.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-11-01T09:31:09.857</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pilgrimm\source\repos\App1\App1\App1.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-11-01T09:31:09.857</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pilgrimm\source\repos\App1\App1\App1.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-11-01T09:31:09.857</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pilgrimm\source\repos\App1\App1\App1.UWP\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.UWP\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-11-01T09:31:09.857</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pilgrimm\source\repos\App1\App1\App1.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-11-01T09:31:09.857</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pilgrimm\source\repos\App1\App1\App1.UWP\slideout.png">
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.UWP\slideout.png">
       <PackagePath>slideout.png</PackagePath>
       <Modified>2017-11-01T09:31:09.920</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pilgrimm\source\repos\App1\App1\App1.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2017-11-01T09:31:09.857</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pilgrimm\source\repos\App1\App1\App1.UWP\bin\x86\Debug\App1.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.UWP\bin\x86\Debug\App1.UWP.xr.xml">
       <PackagePath>App1.UWP.xr.xml</PackagePath>
       <Modified>2017-11-01T11:22:02.272</Modified>
     </AppxPackagedFile>
@@ -569,14 +569,14 @@
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
       <Modified>2017-09-27T09:50:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pilgrimm\source\repos\App1\App1\App1.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-01T11:22:03.458</Modified>
+      <Modified>2017-11-01T16:05:31.226</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\pilgrimm\source\repos\App1\App1\App1.UWP\bin\x86\Debug\Core\App1.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.UWP\bin\x86\Debug\Core\App1.UWP.exe">
       <PackagePath>App1.UWP.exe</PackagePath>
-      <Modified>2017-11-01T11:22:03.869</Modified>
+      <Modified>2017-11-01T18:06:02.676</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

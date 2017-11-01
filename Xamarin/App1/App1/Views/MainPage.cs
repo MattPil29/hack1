@@ -8,7 +8,7 @@ namespace App1
     {
         public MainPage()
         {
-            Page itemsPage, aboutPage = null;
+            Page MoodPage = null, itemsPage = null, aboutPage = null;
 
             switch (Device.RuntimePlatform)
             {
@@ -35,9 +35,15 @@ namespace App1
                     {
                         Title = "About"
                     };
+
+                    MoodPage = new myMoodPage
+                    {
+                        Title = "Mood"
+                    };
                     break;
             }
 
+            Children.Add(MoodPage);
             Children.Add(itemsPage);
             Children.Add(aboutPage);
 

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.myMoodPage">
+    <ContentPage.Content>
+
+        <StackLayout >
+            <Label Text="Rate your mood - be honest!"
+                VerticalOptions="Start" 
+                HorizontalOptions="CenterAndExpand" />
+
+            <StackLayout Orientation="Horizontal" >
+                <Label Text="Sad" />
+                <Slider Value="5"  x:Name="slide" Maximum="10" Minimum="1"   HorizontalOptions="FillAndExpand" />
+                <Label Text="Happy" />
+
+            </StackLayout>
+
+            <Button Text="Submit" x:Name="submit" Clicked="submit_Clicked" />
+
+        </StackLayout>
+        
+        
+       
+    </ContentPage.Content>
+</ContentPage>

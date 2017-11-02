@@ -69,3 +69,12 @@ C:\Source Code\Hack\hack1\MoodUp\MoodUp\bin\Microsoft.AI.WindowsServer.xml
 C:\Source Code\Hack\hack1\MoodUp\MoodUp\bin\Microsoft.AI.Web.xml
 C:\Source Code\Hack\hack1\MoodUp\MoodUp\obj\Debug\MoodUp.dll
 C:\Source Code\Hack\hack1\MoodUp\MoodUp\obj\Debug\MoodUp.pdb
+C:\Source Code\Hack\hack1\MoodUp\MoodUp\bin\System.Net.Http.Formatting.dll
+C:\Source Code\Hack\hack1\MoodUp\MoodUp\bin\System.Web.Http.dll
+C:\Source Code\Hack\hack1\MoodUp\MoodUp\bin\System.Web.Http.WebHost.dll
+C:\Source Code\Hack\hack1\MoodUp\MoodUp\bin\System.Net.Http.Formatting.xml
+C:\Source Code\Hack\hack1\MoodUp\MoodUp\bin\System.Web.Http.xml
+C:\Source Code\Hack\hack1\MoodUp\MoodUp\bin\System.Web.Http.WebHost.xml
+C:\Source Code\Hack\hack1\MoodUp\MoodUp\obj\Debug\MoodUp.Migrations.InitialCreate.resources
+C:\Source Code\Hack\hack1\MoodUp\MoodUp\obj\Debug\MoodUp.csproj.GenerateResource.Cache
+C:\Source Code\Hack\hack1\MoodUp\MoodUp\obj\Debug\MoodUp.Migrations.Moods.resources

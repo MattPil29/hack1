@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-01T18:06:02.681</Modified>
+      <Modified>2017-11-01T18:38:59.085</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.UWP\bin\x86\Debug\App1.UWP.exe">
       <PackagePath>entrypoint\App1.UWP.exe</PackagePath>
-      <Modified>2017-11-01T18:06:02.114</Modified>
+      <Modified>2017-11-01T18:38:58.573</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\.nuget\packages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -576,7 +576,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.UWP\bin\x86\Debug\Core\App1.UWP.exe">
       <PackagePath>App1.UWP.exe</PackagePath>
-      <Modified>2017-11-01T18:06:02.676</Modified>
+      <Modified>2017-11-01T18:38:59.081</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

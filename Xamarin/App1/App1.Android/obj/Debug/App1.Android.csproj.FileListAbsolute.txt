@@ -94,13 +94,13 @@ C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.Android\bin\Debug\Xamarin.Fo
 C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.Android\bin\Debug\Xamarin.Forms.Xaml.xml
 C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
-C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.Android\obj\Debug\App1.Android.csprojResolveAssemblyReference.cache
 C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.Android\obj\Debug\App1.Android.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.Android\obj\Debug\App1.Droid.App.xaml.g.cs
 C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.Android\obj\Debug\App1.Droid.Views.AboutPage.xaml.g.cs
 C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.Android\obj\Debug\App1.Droid.Views.ItemsPage.xaml.g.cs
 C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.Android\obj\Debug\App1.Droid.Views.ItemDetailPage.xaml.g.cs
 C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.Android\obj\Debug\App1.Droid.Views.NewItemPage.xaml.g.cs
+C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.Android\obj\Debug\App1.Droid.Views.myMoodPage.xaml.g.cs
 C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.Android\obj\Debug\App1.Android.dll
 C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.Android\obj\Debug\App1.Android.pdb
 C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.Android\obj\Debug\android\bin\com.companyname.App1.apk
@@ -114,10 +114,10 @@ C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.Android\obj\Debug\res\drawab
 C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.Android\obj\Debug\res\drawable-xxhdpi\icon.png
 C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.Android\obj\Debug\R.cs.flag
 C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.Android\obj\Debug\uploadflags.txt
+C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.Android\obj\Debug\App1.Android.csprojResolveAssemblyReference.cache
 C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.Android\bin\Debug\App1.Android.dll.mdb
 C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.Android\obj\Debug\android\assets\App1.Android.dll.mdb
 C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
 C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
-C:\Users\Admin\source\repos\hack1\Xamarin\App1\App1.Android\obj\Debug\App1.Droid.Views.myMoodPage.xaml.g.cs
